@@ -1,0 +1,19 @@
+
+body {
+    background-size: 20%;
+    font-family: "EB Garamond", serif;
+    width: 100%;
+  }
+
+  .kanit-light {
+    font-family: "Kanit", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .kanit-semibold {
+    font-family: "Kanit", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
